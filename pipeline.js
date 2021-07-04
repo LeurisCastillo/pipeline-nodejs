@@ -10,6 +10,8 @@ function Get() {
 
 Get()
 
+// Yo soy duro
+
 // function Post() {
         // Fill the nombre value with name you want to put do the same for the other values.
 //     const newContact = {
